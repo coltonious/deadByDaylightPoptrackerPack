@@ -1,6 +1,17 @@
 {
     "name": "Dead by Daylight tracker",
-    "game_name": "Dead by Daylight",
+    "game_name": "manual_deadbydaylight-killer-c33_nivomi",
     "package_version": "1",
-        "min_poptracker_version": 27
+        "min_poptracker_version": 27,
+        "package_uid": "dbd",
+        "platform": "PC",
+        "author": "coltonious",
+        "variants":
+        {
+            "itemsonly":
+            {
+                "display_name": "items only",
+                "flags": ["ap", "apmanual"]
+            }
+        }
 }
