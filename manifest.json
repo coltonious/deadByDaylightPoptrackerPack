@@ -1,0 +1,6 @@
+{
+    "name": "Dead by Daylight tracker",
+    "game_name": "Dead by Daylight",
+    "package_version": "1",
+        "min_poptracker_version": 27
+}
