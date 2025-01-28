@@ -1,0 +1,3 @@
+Dead by Daylight is a 4v1 asymetrical horror game where one player playes as a killer with various powers attempting to stop the four other players from escaping what is known as a trial.
+
+This poptracker pack is made to be used with the manual Dead by Daylight archipelago world. On this, you can see what killers and perks you have available, as well as send check from this isntead of needing to do it through the manual client. 

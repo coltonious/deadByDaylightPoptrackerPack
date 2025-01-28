@@ -1,8 +1,236 @@
 [
+    
     {
-        "name": "overview",
+        "name": "all killers",
         "location_size": 35,
-        "location_border_thickness": 5,
-        "img": "images/maps/map.png"
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "trapper",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "wraith",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "hillbilly",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "nurse",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "shape",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "hag",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "doctor",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "huntress",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "cannibal",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "nightmare",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "pig",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "clown",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "spirit",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "legion",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "plague",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "ghostface",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "demogorgon",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "oni",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "deathslinger",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "executioner",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "blight",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "twins",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "trickster",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "nemesis",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "cenobite",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "artist",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "onryo",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "dredge",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "mastermind",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "knight",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "skull merchant",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "singularity",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "xenomorph",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "good guy",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "unknown",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "lich",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "dracula",
+        "location_size": 35,
+        "location_border_thickness": 5
+    },
+    
+    {
+        "name": "houndmaster",
+        "location_size": 35,
+        "location_border_thickness": 5
     }
 ]
