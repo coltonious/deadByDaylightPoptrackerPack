@@ -1,1586 +1,1189 @@
 [
     {
         "name": "A Nurse's Calling",
-        "category": [
-            "Perk",
-            "Nurse, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "nurses"
     },
     {
         "name": "Agitation",
-        "category": [
-            "Perk",
-            "Trapper, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "agitation"
     },
     {
         "name": "Alien Instinct",
-        "category": [
-            "Perk",
-            "Xenomorph, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "alienInstinct"
     },
     {
         "name": "Awakened Awareness",
-        "category": [
-            "Perk",
-            "Mastermind, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "awakenedAwareness"
     },
     {
         "name": "Bamboozle",
-        "category": [
-            "Perk",
-            "Clown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "bambam"
     },
     {
         "name": "Barbecue & Chilli",
-        "category": [
-            "Perk",
-            "Cannibal, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "barbecue"
     },
     {
         "name": "Batteries Included",
-        "category": [
-            "Perk",
-            "Good Guy, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "batteries"
     },
     {
         "name": "Beast of Prey",
-        "category": [
-            "Perk",
-            "Huntress, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "beastOfPrey"
     },
     {
         "name": "Bitter Murmur",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "bitterMurmur"
     },
     {
         "name": "Blood Echo",
-        "category": [
-            "Perk",
-            "Oni, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "bloodEcho"
     },
     {
         "name": "Blood Warden",
-        "category": [
-            "Perk",
-            "Nightmare, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "bloodWarden"
     },
     {
         "name": "Bloodhound",
-        "category": [
-            "Perk",
-            "Wraith, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "bloodhound"
     },
     {
         "name": "Brutal Strength",
-        "category": [
-            "Perk",
-            "Trapper, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "brutal"
     },
     {
         "name": "Call of Brine",
-        "category": [
-            "Perk",
-            "Onryo, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "callOfBrine"
     },
     {
         "name": "Corrupt Intervention",
-        "category": [
-            "Perk",
-            "Plague, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "corruptIntervention"
     },
     {
         "name": "Coulrophobia",
-        "category": [
-            "Perk",
-            "Clown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "coulrophobia"
     },
     {
         "name": "Coup de Grace",
-        "category": [
-            "Perk",
-            "Twins, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "coup"
     },
     {
         "name": "Cruel Limits",
-        "category": [
-            "Perk",
-            "Demogorgon, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "cruelLimits"
     },
     {
         "name": "Dark Arrogance",
-        "category": [
-            "Perk",
-            "Lich, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "darkArrogance"
     },
     {
         "name": "Dark Devotion",
-        "category": [
-            "Perk",
-            "Plague, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "darkDevotion"
     },
     {
         "name": "Darkness Revealed",
-        "category": [
-            "Perk",
-            "Dredge, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "darknessRevealed"
     },
     {
         "name": "Dead Man's Switch",
-        "category": [
-            "Perk",
-            "Deathslinger, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "deadMans"
     },
     {
         "name": "Deadlock",
-        "category": [
-            "Perk",
-            "Cenobite, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "deadlock"
     },
     {
         "name": "Deathbound",
-        "category": [
-            "Perk",
-            "Executioner, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "deathbound"
     },
     {
         "name": "Deerstalker",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "deerstalker"
     },
     {
         "name": "Discordance",
-        "category": [
-            "Perk",
-            "Legion, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "discordance"
     },
     {
         "name": "Dissolution",
-        "category": [
-            "Perk",
-            "Dredge, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "dissolution"
     },
     {
         "name": "Distressing",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "distressing"
     },
     {
         "name": "Dominance",
-        "category": [
-            "Perk",
-            "Dark Lord, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "dominance"
     },
     {
         "name": "Dragon's Grip",
-        "category": [
-            "Perk",
-            "Blight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "dragonsGrip"
     },
     {
         "name": "Dying Light",
-        "category": [
-            "Perk",
-            "Shape, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "dyingLight"
     },
     {
         "name": "Enduring",
-        "category": [
-            "Perk",
-            "Hillbilly, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "enduring"
     },
     {
         "name": "Eruption",
-        "category": [
-            "Perk",
-            "Nemesis, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "eruption"
     },
     {
         "name": "Fire Up",
-        "category": [
-            "Perk",
-            "Nightmare, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "fireUp"
     },
     {
         "name": "Floods of Rage",
-        "category": [
-            "Perk",
-            "Onryo, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "floodsOfRage"
     },
     {
         "name": "Forced Hesitation",
-        "category": [
-            "Perk",
-            "Singularity, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "forcedHesitation"
     },
     {
         "name": "Forced Penance",
-        "category": [
-            "Perk",
-            "Executioner, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "forcedPenance"
     },
     {
         "name": "Franklin's Demise",
-        "category": [
-            "Perk",
-            "Cannibal, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "franklins"
     },
     {
         "name": "Friends 'til the End",
-        "category": [
-            "Perk",
-            "Good Guy, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "friends"
     },
     {
         "name": "Furitive Chase",
-        "category": [
-            "Perk",
-            "Ghost Face, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "furtive"
     },
     {
         "name": "Game Afoot",
-        "category": [
-            "Perk",
-            "Skull Merchant, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "gameAfoot"
     },
     {
         "name": "Gearhead",
-        "category": [
-            "Perk",
-            "Deathslinger, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "gearhead"
     },
     {
         "name": "Genetic Limits",
-        "category": [
-            "Perk",
-            "Singularity, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "geneticLimits"
     },
     {
         "name": "Gift of Pain",
-        "category": [
-            "Perk",
-            "Cenobite, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "giftOfPain"
     },
     {
         "name": "Grim Embrace",
-        "category": [
-            "Perk",
-            "Artist, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "grimEmbrace"
     },
     {
         "name": "Hangman's Trick",
-        "category": [
-            "Perk",
-            "Pig, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hangmansTrick"
     },
     {
         "name": "Hex - Blood Favor",
-        "category": [
-            "Perk",
-            "Blight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "bloodFavor"
     },
     {
         "name": "Hex - Crowd Control",
-        "category": [
-            "Perk",
-            "Trickster, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "crowdControl"
     },
     {
         "name": "Hex - Devour Hope",
-        "category": [
-            "Perk",
-            "Hag, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "devour"
     },
     {
         "name": "Hex - Face the Darkness",
-        "category": [
-            "Perk",
-            "Knight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "faceTheDarkness"
     },
     {
         "name": "Hex - Haunted Ground",
-        "category": [
-            "Perk",
-            "Spirit, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hauntedGround"
     },
     {
         "name": "Hex - Huntress Lullaby",
-        "category": [
-            "Perk",
-            "Huntress, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "huntressLullaby"
     },
     {
         "name": "Hex - No One Escapes Death",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "noed"
     },
     {
         "name": "Hex - Pentimento",
-        "category": [
-            "Perk",
-            "Artist, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "pentimento"
     },
     {
         "name": "Hex - Plaything",
-        "category": [
-            "Perk",
-            "Cenobite, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "plaything"
     },
     {
         "name": "Hex - Retribution",
-        "category": [
-            "Perk",
-            "Deathslinger, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "retribution"
     },
     {
         "name": "Hex - Ruin",
-        "category": [
-            "Perk",
-            "Hag, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "ruin"
     },
     {
         "name": "Hex - The Third Seal",
-        "category": [
-            "Perk",
-            "Hag, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "theThirdSeal"
     },
     {
         "name": "Hex - Thrill of the Hunt",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "thrillOfTheHunt"
     },
     {
         "name": "Hex - Two Can Play",
-        "category": [
-            "Perk",
-            "Good Guy, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "twoCanPlay"
     },
     {
         "name": "Hex - Undying",
-        "category": [
-            "Perk",
-            "Blight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "undying"
     },
     {
         "name": "Hex - Wretched Fate",
-        "category": [
-            "Perk",
-            "Dark Lord, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "wretchedFate"
     },
     {
         "name": "Hoarder",
-        "category": [
-            "Perk",
-            "Twins, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hoarder"
     },
     {
         "name": "Hubris",
-        "category": [
-            "Perk",
-            "Knight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hubris"
     },
     {
         "name": "Human Greed",
-        "category": [
-            "Perk",
-            "Dark Lord, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "humanGreed"
     },
     {
         "name": "Hysteria",
-        "category": [
-            "Perk",
-            "Nemesis, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hysteria"
     },
     {
         "name": "I'm All Ears",
-        "category": [
-            "Perk",
-            "Ghost Face, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "imAllEars"
     },
     {
         "name": "Infectious Fright",
-        "category": [
-            "Perk",
-            "Plague, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "infectiousFright"
     },
     {
         "name": "Insidious",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "insidious"
     },
     {
         "name": "Iron Grasp",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "ironGrasp"
     },
     {
         "name": "Iron Maiden",
-        "category": [
-            "Perk",
-            "Legion, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "ironMaiden"
     },
     {
         "name": "Knockout",
-        "category": [
-            "Perk",
-            "Cannibal, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "knockout"
     },
     {
         "name": "Languid Touch",
-        "category": [
-            "Perk",
-            "Lich, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "languidTouch"
     },
     {
         "name": "Lethal Pursuer",
-        "category": [
-            "Perk",
-            "Nemesis, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "lethalPursuer"
     },
     {
         "name": "Leverage",
-        "category": [
-            "Perk",
-            "Skull Merchant, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "leverage"
     },
     {
         "name": "Lightborn",
-        "category": [
-            "Perk",
-            "Hillbilly, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "lightborn"
     },
     {
         "name": "Machine Learning",
-        "category": [
-            "Perk",
-            "Singularity, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "machineLearning"
     },
     {
         "name": "Mad Grit",
-        "category": [
-            "Perk",
-            "Legion, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "madGrit"
     },
     {
         "name": "Make Your Choice",
-        "category": [
-            "Perk",
-            "Pig, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "makeYourChoice"
     },
     {
         "name": "Merciless Storm",
-        "category": [
-            "Perk",
-            "Onryo, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "merciless"
     },
     {
         "name": "Mindbreaker",
-        "category": [
-            "Perk",
-            "Demogorgon, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "mindbreaker"
     },
     {
         "name": "Monitor & Abuse",
-        "category": [
-            "Perk",
-            "Doctor, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "monitorAndAbuse"
     },
     {
         "name": "Monstrous Shrine",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "monstrousShrine"
     },
     {
         "name": "Nemesis",
-        "category": [
-            "Perk",
-            "Oni, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "nemesis"
     },
     {
         "name": "No Way Out",
-        "category": [
-            "Perk",
-            "Trickster, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "noWayOut"
     },
     {
         "name": "Nowhere to Hide",
-        "category": [
-            "Perk",
-            "Knight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "nowhereToHide"
     },
     {
         "name": "Oppression",
-        "category": [
-            "Perk",
-            "Twins, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "oppression"
     },
     {
         "name": "Overcharge",
-        "category": [
-            "Perk",
-            "Doctor, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "overcharge"
     },
     {
         "name": "Overwhelming Presence",
-        "category": [
-            "Perk",
-            "Doctor, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "overwhelmingPresence"
     },
     {
         "name": "Pain Resonance",
-        "category": [
-            "Perk",
-            "Artist, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "painRes"
     },
     {
         "name": "Play With Your Food",
-        "category": [
-            "Perk",
-            "Shape, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "playWithYourFood"
     },
     {
         "name": "Pop Goes The Weasel",
-        "category": [
-            "Perk",
-            "Clown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "pop"
     },
     {
         "name": "Predator",
-        "category": [
-            "Perk",
-            "Wraith, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "predator"
     },
     {
         "name": "Rancor",
-        "category": [
-            "Perk",
-            "Spirit, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "rancor"
     },
     {
         "name": "Rapid Brutality",
-        "category": [
-            "Perk",
-            "Xenomorph, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "rapidBrutality"
     },
     {
         "name": "Remember Me",
-        "category": [
-            "Perk",
-            "Nightmare, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "rememberMe"
     },
     {
         "name": "Save the Best for Last",
-        "category": [
-            "Perk",
-            "Shape, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "SavetheBestForLast"
     },
     {
         "name": "Septic Touch",
-        "category": [
-            "Perk",
-            "Dredge, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "septicTouch"
     },
     {
         "name": "Shadowborn",
-        "category": [
-            "Perk",
-            "Wraith, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "shadowborn"
     },
     {
         "name": "Shattered Hope",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "shatteredHope"
     },
     {
         "name": "Sloppy Butcher",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "sloppy"
     },
     {
         "name": "Spies from the Shadows",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "spiesFromTheShadows"
     },
     {
         "name": "Spirit Fury",
-        "category": [
-            "Perk",
-            "Spirit, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "spiritFury"
     },
     {
         "name": "Starstruck",
-        "category": [
-            "Perk",
-            "Trickster, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "starstruck"
     },
     {
         "name": "Stridor",
-        "category": [
-            "Perk",
-            "Nurse, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "stridor"
     },
     {
         "name": "Superior Anatomy",
-        "category": [
-            "Perk",
-            "Mastermind, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "superiorAnatomy"
     },
     {
         "name": "Surge",
-        "category": [
-            "Perk",
-            "Demogorgon, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "surge"
     },
     {
         "name": "Surveillance",
-        "category": [
-            "Perk",
-            "Pig, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "surveillance"
     },
     {
         "name": "THWACK!",
-        "category": [
-            "Perk",
-            "Skull Merchant, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "thwack"
     },
     {
         "name": "Terminus",
-        "category": [
-            "Perk",
-            "Mastermind, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "terminus"
     },
     {
         "name": "Territorial Imperative",
-        "category": [
-            "Perk",
-            "Huntress, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "territorial"
     },
     {
         "name": "Thanatophobia",
-        "category": [
-            "Perk",
-            "Nurse, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "thanat"
     },
     {
         "name": "The Artist",
-        "category": [
-            "Killer",
-            "Artist, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "artist"
     },
     {
         "name": "The Artist Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Artist, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "artistVictory"
     },
     {
         "name": "The Blight",
-        "category": [
-            "Killer",
-            "Blight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "blight"
     },
     {
         "name": "The Blight Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Blight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "blightVictory"
     },
     {
         "name": "The Cannibal",
-        "category": [
-            "Killer",
-            "Cannibal, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "cannibal"
     },
     {
         "name": "The Cannibal Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Cannibal, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "cannibalVictory"
     },
     {
         "name": "The Cenobite",
-        "category": [
-            "Killer",
-            "Cenobite, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "cenobite"
     },
     {
         "name": "The Cenobite Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Cenobite, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "cenobiteVictory"
     },
     {
         "name": "The Clown",
-        "category": [
-            "Killer",
-            "Clown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "clown"
     },
     {
         "name": "The Clown Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Clown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "clownVictory"
     },
     {
         "name": "The Dark Lord",
-        "category": [
-            "Killer",
-            "Dark Lord, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "darkLord"
     },
     {
         "name": "The Dark Lord Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Dark Lord, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "darkLordVictory"
     },
     {
         "name": "The Deathslinger",
-        "category": [
-            "Killer",
-            "Deathslinger, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "deathslinger"
     },
     {
         "name": "The Deathslinger Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Deathslinger, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "deathslingerVictory"
     },
     {
         "name": "The Demogorgon",
-        "category": [
-            "Killer",
-            "Demogorgon, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "demoGorgon"
     },
     {
         "name": "The Demogorgon Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Demogorgon, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "demogorgonVictory"
     },
     {
         "name": "The Doctor",
-        "category": [
-            "Killer",
-            "Doctor, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "doctor"
     },
     {
         "name": "The Doctor Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Doctor, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "doctorVictory"
     },
     {
         "name": "The Dredge",
-        "category": [
-            "Killer",
-            "Dredge, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "dredge"
     },
     {
         "name": "The Dredge Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Dredge, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "dredgeVictory"
     },
     {
         "name": "The Executioner",
-        "category": [
-            "Killer",
-            "Executioner, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "executioner"
     },
     {
         "name": "The Executioner Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Executioner, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "executionerVictory"
     },
     {
         "name": "The Ghost Face",
-        "category": [
-            "Killer",
-            "Ghost Face, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "ghostFace"
     },
     {
         "name": "The Ghost Face Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Ghost Face, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "ghostFaceVictory"
     },
     {
         "name": "The Good Guy",
-        "category": [
-            "Killer",
-            "Good Guy, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "goodGuy"
     },
     {
         "name": "The Good Guy Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Good Guy, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "goodGuyVictory"
     },
     {
         "name": "The Hag",
-        "category": [
-            "Killer",
-            "Hag, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hag"
     },
     {
         "name": "The Hag Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Hag, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hagVictory"
     },
     {
         "name": "The Hillbilly",
-        "category": [
-            "Killer",
-            "Hillbilly, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hillbilly"
     },
     {
         "name": "The Hillbilly Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Hillbilly, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "hillbillyVictory"
     },
     {
         "name": "The Huntress",
-        "category": [
-            "Killer",
-            "Huntress, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "huntress"
     },
     {
         "name": "The Huntress Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Huntress, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "huntressVictory"
     },
     {
         "name": "The Knight",
-        "category": [
-            "Killer",
-            "Knight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "knight"
     },
     {
         "name": "The Knight Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Knight, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "knightVictory"
     },
     {
         "name": "The Legion",
-        "category": [
-            "Killer",
-            "Legion, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "legion"
     },
     {
         "name": "The Legion Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Legion, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "legionVictory"
     },
     {
         "name": "The Lich",
-        "category": [
-            "Killer",
-            "Lich, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "lich"
     },
     {
         "name": "The Lich Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Lich, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "lichVictory"
     },
     {
         "name": "The Mastermind",
-        "category": [
-            "Killer",
-            "Mastermind, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "mastermind"
     },
     {
         "name": "The Mastermind Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Mastermind, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "mastermindVictory"
     },
     {
         "name": "The Nemesis",
-        "category": [
-            "Killer",
-            "Nemesis, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "theNemesis"
     },
     {
         "name": "The Nemesis Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Nemesis, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "theNemesisVictory"
     },
     {
         "name": "The Nightmare",
-        "category": [
-            "Killer",
-            "Nightmare, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "nightmare"
     },
     {
         "name": "The Nightmare Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Nightmare, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "nightmareVictory"
     },
     {
         "name": "The Nurse",
-        "category": [
-            "Killer",
-            "Nurse, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "nurse"
     },
     {
         "name": "The Nurse Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Nurse, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "nurseVictory"
     },
     {
         "name": "The Oni",
-        "category": [
-            "Killer",
-            "Oni, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "oni"
     },
     {
         "name": "The Oni Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Oni, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "oniVictory"
     },
     {
         "name": "The Onryo",
-        "category": [
-            "Killer",
-            "Onryo, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "onryo"
     },
     {
         "name": "The Onryo Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Onryo, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "onryoVictory"
     },
     {
         "name": "The Pig",
-        "category": [
-            "Killer",
-            "Pig, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "pig"
     },
     {
         "name": "The Pig Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Pig, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "pigVictory"
     },
     {
         "name": "The Plague",
-        "category": [
-            "Killer",
-            "Plague, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "plague"
     },
     {
         "name": "The Plague Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Plague, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "plagueVictory"
     },
     {
         "name": "The Shape",
-        "category": [
-            "Killer",
-            "Shape, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "shape"
     },
     {
         "name": "The Shape Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Shape, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "shapeVictory"
     },
     {
         "name": "The Singularity",
-        "category": [
-            "Killer",
-            "Singularity, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "singularity"
     },
     {
         "name": "The Singularity Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Singularity, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "singularityVictory"
     },
     {
         "name": "The Skull Merchant",
-        "category": [
-            "Killer",
-            "Skull Merchant, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "skullMerchant"
     },
     {
         "name": "The Skull Merchant Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Skull Merchant, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "skullMerchantVictory"
     },
     {
         "name": "The Spirit",
-        "category": [
-            "Killer",
-            "Spirit, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "spirit"
     },
     {
         "name": "The Spirit Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Spirit, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "spiritVictory"
     },
     {
         "name": "The Trapper",
-        "category": [
-            "Killer",
-            "Trapper, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "trapper"
     },
     {
         "name": "The Trapper Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Trapper, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "trapperVictory"
     },
     {
         "name": "The Trickster",
-        "category": [
-            "Killer",
-            "Trickster, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "trickster"
     },
     {
         "name": "The Trickster Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Trickster, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "tricksterVictory"
     },
     {
         "name": "The Twins",
-        "category": [
-            "Killer",
-            "Twins, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "twins"
     },
     {
         "name": "The Twins Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Twins, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "twinsVictory"
     },
     {
         "name": "The Unknown",
-        "category": [
-            "Killer",
-            "Unknown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "unknown"
     },
     {
         "name": "The Unknown Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Unknown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "unknownVictory"
     },
     {
         "name": "The Wraith",
-        "category": [
-            "Killer",
-            "Wraith, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "wraith"
     },
     {
         "name": "The Wraith Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Wraith, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "wraithVictory"
     },
     {
         "name": "The Xenomorph",
-        "category": [
-            "Killer",
-            "Xenomorph, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "xenomorph"
     },
     {
         "name": "The Xenomorph Victory Token",
-        "category": [
-            "Victory Tokens",
-            "Xenomorph, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "xenomorphVictory"
     },
     {
         "name": "Thrilling Tremors",
-        "category": [
-            "Perk",
-            "Ghost Face, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "thrilling"
     },
     {
         "name": "Tinkerer",
-        "category": [
-            "Perk",
-            "Hillbilly, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "tinerer"
     },
     {
         "name": "Trail of Torment",
-        "category": [
-            "Perk",
-            "Executioner, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "trail"
     },
     {
         "name": "Ultimate Weapon",
-        "category": [
-            "Perk",
-            "Xenomorph, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "ultimateWeapon"
     },
     {
         "name": "Unbound",
-        "category": [
-            "Perk",
-            "Unknown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "unbound"
     },
     {
         "name": "Undone",
-        "category": [
-            "Perk",
-            "Unknown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "undone"
     },
     {
         "name": "Unforeseen",
-        "category": [
-            "Perk",
-            "Unknown, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "unforseen"
     },
     {
         "name": "Unnerving Presence",
-        "category": [
-            "Perk",
-            "Trapper, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "unnerving"
     },
     {
         "name": "Unrelenting",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "unrelenting"
     },
     {
         "name": "Weave Attunement",
-        "category": [
-            "Perk",
-            "Lich, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "weave"
     },
     {
         "name": "Whispers",
-        "category": [
-            "Base Perks",
-            "Perk"
-        ],
-        "progression": true
+        "type": "toggle",
+        
+        "codes": "whispers"
     },
     {
         "name": "Zanshin Tactics",
-        "category": [
-            "Perk",
-            "Oni, The"
-        ],
-        "progression": true
+        "type": "toggle",
+        "codes": "Zanshin"
     }
 ]
